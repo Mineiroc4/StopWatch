@@ -33,7 +33,7 @@ function ClassStopWatches() {
       <header>
         <nav className="navigation">
           <h1 className="titulo">Time Manager</h1>
-          <a href="https://mineiroc4.github.io/StopWatch/">
+          <a href="https://remarkable-pony-b53f8b.netlify.app/">
             <div className="title">
               <img src={binahkiHeaderURL} alt="Logo Binahki" className="logo" />
             </div>
